@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi Class!
 
+=======
+Hi Class!!
+>>>>>>> new-feature
